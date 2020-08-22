@@ -1,0 +1,38 @@
+# Data
+*.csv
+*.xlsx
+*.xls
+*.xlsb
+*.pbix
+*.twb
+*.tds
+*.twbx
+*.tdsx
+*.tbm
+*.txt
+*.zip
+
+# Images
+*.jpeg
+*.jpg
+*.gif
+*.exif
+*.bmp
+*.png
+*.bat
+*.hdr
+*.tiff
+
+# Audio
+*.wav
+*.aiff
+*.au
+*.flac
+*.ape
+*.tta
+*.atrac
+*.alac
+*.mp3
+*.m4p
+*.raw
+*.wma
