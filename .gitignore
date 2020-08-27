@@ -11,6 +11,7 @@
 *.tbm
 *.txt
 *.zip
+*.json
 
 # Images
 *.jpeg
@@ -39,3 +40,4 @@
 
 #Exceptions
 !requirements.txt
+!twitter_combined.txt
